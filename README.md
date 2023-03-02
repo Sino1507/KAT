@@ -1,2 +1,2 @@
 # KAT
-Repo for KAT-Modules
+This is the public Repo for KAT-Modules.
